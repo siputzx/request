@@ -1,6 +1,6 @@
 {
   "name": "@sptzx/request",
-  "version": "1.0.0",
+  "version": "1.0.0-rc.1",
   "description": "Tiny, Elegant, and Brutally Optimized HTTP Client for Server-Side Runtimes. Zero-dependency.",
   "type": "module",
   "main": "./dist/index.js",
