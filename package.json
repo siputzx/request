@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "build": "tsc",
-    "build:watch": "tsc --watch"
+    "build:watch": "tsc --watch",
+    "test": "node test/_harness.js"
   },
   "devDependencies": {
     "typescript": "^5.4.0"

@@ -1,0 +1,1 @@
+{"version":3,"file":"parser.d.ts","sourceRoot":"","sources":["../../src/cookie/parser.ts"],"names":[],"mappings":"AAAA;;;;GAIG;AAEH,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,YAAY,CAAC;AAkBzC,wBAAgB,oBAAoB,CAAC,cAAc,EAAE,MAAM,GAAG,MAAM,GAAG,IAAI,CAqF1E;AAED,wBAAgB,kBAAkB,CAAC,aAAa,EAAE,MAAM,GAAG,MAAM,EAAE,GAAG,MAAM,EAAE,CA6C7E;AAED,wBAAgB,uBAAuB,CAAC,OAAO,EAAE,OAAO,GAAG,MAAM,EAAE,CAMlE"}
