@@ -1,1 +1,0 @@
-{"version":3,"file":"NonError.d.ts","sourceRoot":"","sources":["../../src/errors/NonError.ts"],"names":[],"mappings":"AAIA,qBAAa,QAAS,SAAQ,KAAK;IACxB,IAAI,SAAc;IAC3B,QAAQ,CAAC,KAAK,EAAE,OAAO,CAAC;gBAEZ,KAAK,EAAE,OAAO;CAY3B"}
